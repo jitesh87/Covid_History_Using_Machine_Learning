@@ -1,0 +1,491 @@
+,provincial_case_id,age,sex,health_region,province,country,date_report,report_week,has_travel_history,locally_acquired,case_source
+4,2,50-59,Female,Vancouver Coastal,BC,Canada,2020-02-04,2020-02-02,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0023-000222
+11,7,40-49,Male,Fraser,BC,Canada,2020-02-24,2020-02-23,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0043-000320
+12,6,60-69,Male,Toronto,Ontario,Canada,2020-02-27,2020-02-23,f,Close Contact,(1) https://news.ontario.ca/mohltc/en/2020/02/ontario-confirms-positive-case-of-covid-19.html ; (2) https://www.theglobeandmail.com/canada/article-sixth-person-confirmed-to-have-coronavirus-in-ontario-is-husband-of/
+18,11,60-69,Male,Durham,Ontario,Canada,2020-02-29,2020-02-23,f,Close Contact,https://news.ontario.ca/mohltc/en/2020/02/ontario-confirms-new-positive-cases-of-covid-19.html
+38,14,20-29,Male,Vancouver Coastal,BC,Canada,2020-03-05,2020-03-01,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0062-000393
+39,15,30-39,Male,Vancouver Coastal,BC,Canada,2020-03-05,2020-03-01,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0062-000393
+40,16,50-59,Female,Vancouver Coastal,BC,Canada,2020-03-05,2020-03-01,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0062-000393
+41,17,60-69,Female,Vancouver Coastal,BC,Canada,2020-03-05,2020-03-01,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0062-000393
+45,21,50-59,Female,Fraser,BC,Canada,2020-03-05,2020-03-01,f,Community,https://news.gov.bc.ca/releases/2020HLTH0062-000393
+57,25,50-59,Female,Fraser,BC,Canada,2020-03-07,2020-03-01,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0064-000413
+58,26,70-79,Female,Vancouver Coastal,BC,Canada,2020-03-07,2020-03-01,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0064-000413
+59,27,80-89,Male,Vancouver Coastal,BC,Canada,2020-03-07,2020-03-01,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0064-000413
+63,4,30-39,Female,Calgary,Alberta,Canada,2020-03-08,2020-03-08,f,Close Contact,https://globalnews.ca/news/6647035/new-presumptive-cases-covid-19-in-alberta/
+69,28,0-19,Male,Fraser,BC,Canada,2020-03-09,2020-03-08,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0068-000423
+70,29,50-59,Male,Fraser,BC,Canada,2020-03-09,2020-03-08,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0068-000423
+71,30,40-49,Female,Fraser,BC,Canada,2020-03-09,2020-03-08,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0068-000423
+77,35,30-39,Female,Peel,Ontario,Canada,2020-03-09,2020-03-08,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus?_ga=2.234498395.490106517.1583643317-1491535836.1583119005
+87,33,40-49,Female,Vancouver Coastal,BC,Canada,2020-03-10,2020-03-08,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0072-000445
+88,34,50-59,Female,Vancouver Coastal,BC,Canada,2020-03-10,2020-03-08,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0072-000445
+92,38,90-99,Male,Fraser,BC,Canada,2020-03-10,2020-03-08,f,Community,https://news.gov.bc.ca/releases/2020HLTH0072-000445
+93,39,40-49,Male,Fraser,BC,Canada,2020-03-10,2020-03-08,f,Community,https://news.gov.bc.ca/releases/2020HLTH0072-000445
+94,37,50-59,Male,Sudbury,Ontario,Canada,2020-03-10,2020-03-08,f,Community,https://www.phsd.ca/news/first-case-of-covid-19-reported-by-public-health-sudbury-districts
+108,40,20-29,Male,Vancouver Coastal,BC,Canada,2020-03-11,2020-03-08,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0074-000470
+109,41,60-69,Female,Fraser,BC,Canada,2020-03-11,2020-03-08,f,Community,https://news.gov.bc.ca/releases/2020HLTH0074-000470
+112,44,60-69,Male,Fraser,BC,Canada,2020-03-11,2020-03-08,f,Community,https://news.gov.bc.ca/releases/2020HLTH0074-000470
+113,45,50-59,Female,Fraser,BC,Canada,2020-03-11,2020-03-08,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0074-000470
+116,44,0-19,Female,Peel,Ontario,Canada,2020-03-12,2020-03-08,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+117,45,20-29,Male,Toronto,Ontario,Canada,2020-03-12,2020-03-08,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+124,52,0-19,Male,Toronto,Ontario,Canada,2020-03-12,2020-03-08,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0; https://toronto.ctvnews.ca/here-s-what-we-know-about-ontario-s-59-cases-of-covid-19-1.4834821
+125,53,30-39,Male,Toronto,Ontario,Canada,2020-03-12,2020-03-08,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+148,47,90-99,Male,Vancouver Coastal,BC,Canada,2020-03-12,2020-03-08,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0077-000484; https://docs.google.com/spreadsheets/d/1G17R6SoGc2-l_naBF2z5YCtau-k5jJ8Tvh_r_9qhgLI/edit#gid=532907458
+149,48,40-49,Male,Fraser,BC,Canada,2020-03-12,2020-03-08,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0077-000484; https://vancouverisland.ctvnews.ca/b-c-health-officials-discourage-travel-outside-canada-ban-events-larger-than-250-people-1.4850903; https://docs.google.com/spreadsheets/d/1G17R6SoGc2-l_naBF2z5YCtau-k5jJ8Tvh_r_9qhgLI/edit#gid=532907458
+150,49,40-49,Female,Fraser,BC,Canada,2020-03-12,2020-03-08,f,Close Contact,https://news.gov.bc.ca/releases/2020HLTH0077-000484; https://vancouverisland.ctvnews.ca/b-c-health-officials-discourage-travel-outside-canada-ban-events-larger-than-250-people-1.4850903; https://docs.google.com/spreadsheets/d/1G17R6SoGc2-l_naBF2z5YCtau-k5jJ8Tvh_r_9qhgLI/edit#gid=532907458
+154,53,50-59,Male,Vancouver Coastal,BC,Canada,2020-03-12,2020-03-08,f,Community,https://news.gov.bc.ca/releases/2020HLTH0077-000484; https://docs.google.com/spreadsheets/d/1G17R6SoGc2-l_naBF2z5YCtau-k5jJ8Tvh_r_9qhgLI/edit#gid=532907458
+156,61,20-29,Female,Peel,Ontario,Canada,2020-03-13,2020-03-08,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+162,67,80-89,Male,Niagara,Ontario,Canada,2020-03-13,2020-03-08,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+166,71,20-29,Male,Toronto,Ontario,Canada,2020-03-13,2020-03-08,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+220,2,50-59,Male,Zone 1 (Moncton area),New Brunswick,Canada,2020-03-14,2020-03-08,f,Close Contact,https://www.cbc.ca/news/canada/new-brunswick/nb-chief-medical-officer-health-covid-19-1.5497971
+257,108,20-29,Male,Waterloo,Ontario,Canada,2020-03-15,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+271,122,70-79,Male,Simcoe Muskoka,Ontario,Canada,2020-03-15,2020-03-15,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+313,3,20-29,Male,Zone 3 (Fredericton area),New Brunswick,Canada,2020-03-15,2020-03-15,f,Close Contact,https://www2.gnb.ca/content/gnb/en/news/news_release.2020.03.0125.html
+314,4,20-29,Male,Zone 3 (Fredericton area),New Brunswick,Canada,2020-03-15,2020-03-15,f,Close Contact,https://www2.gnb.ca/content/gnb/en/news/news_release.2020.03.0125.html
+315,5,50-59,Female,Zone 3 (Fredericton area),New Brunswick,Canada,2020-03-15,2020-03-15,f,Close Contact,https://www2.gnb.ca/content/gnb/en/news/news_release.2020.03.0125.html
+316,6,50-59,Male,Zone 3 (Fredericton area),New Brunswick,Canada,2020-03-15,2020-03-15,f,Close Contact,https://www2.gnb.ca/content/gnb/en/news/news_release.2020.03.0125.html
+345,150,60-69,Female,Sudbury,Ontario,Canada,2020-03-16,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+375,4,50-59,Male,Zone 4 - Central,Nova Scotia,Canada,2020-03-16,2020-03-15,f,Close Contact,https://globalnews.ca/news/6683327/2-new-presumptive-cases-coronavirus-nova-scotia-covid-19/
+376,5,50-59,Female,Zone 4 - Central,Nova Scotia,Canada,2020-03-16,2020-03-15,f,Close Contact,https://globalnews.ca/news/6683327/2-new-presumptive-cases-coronavirus-nova-scotia-covid-19/
+451,8,0-19,Male,Zone 3 (Fredericton area),New Brunswick,Canada,2020-03-17,2020-03-15,f,Close Contact,https://www2.gnb.ca/content/gnb/en/news/news_release.2020.03.0132.html
+476,186,70-79,Male,Simcoe Muskoka,Ontario,Canada,2020-03-17,2020-03-15,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0; https://www.nationalobserver.com/2020/03/17/news/unconfirmed-covid-19-death-reported-ontarios-muskoka
+598,191,20-29,Female,York,Ontario,Canada,2020-03-18,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+604,197,60-69,Female,Peel,Ontario,Canada,2020-03-18,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+618,211,50-59,Female,Huron Perth,Ontario,Canada,2020-03-18,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+646,10,60-69,Male,Zone 3 (Fredericton area),New Brunswick,Canada,2020-03-18,2020-03-15,f,Close Contact,https://globalnews.ca/news/6695595/new-brunswick-coronavirus-update-mar-18/
+737,225,20-29,Female,Waterloo,Ontario,Canada,2020-03-19,2020-03-15,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus
+805,258,50-59,Male,Halton,Ontario,Canada,2020-03-19,2020-03-15,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0; https://globalnews.ca/news/6701911/coronavirus-second-death-ontario/; https://www.ctvnews.ca/health/coronavirus/stay-home-urges-widow-of-51-year-old-ontario-man-who-died-of-covid-19-1.4860802
+874,260,30-39,Male,Peterborough,Ontario,Canada,2020-03-20,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+884,270,40-49,Male,Ottawa,Ontario,Canada,2020-03-20,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+885,271,40-49,Male,Ottawa,Ontario,Canada,2020-03-20,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+887,273,70-79,Male,Waterloo,Ontario,Canada,2020-03-20,2020-03-15,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+888,274,20-29,Female,Peel,Ontario,Canada,2020-03-20,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+889,275,40-49,Female,Toronto,Ontario,Canada,2020-03-20,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+891,277,20-29,Female,Waterloo,Ontario,Canada,2020-03-20,2020-03-15,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+893,279,20-29,Male,Waterloo,Ontario,Canada,2020-03-20,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+894,280,50-59,Female,Toronto,Ontario,Canada,2020-03-20,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+895,281,50-59,Female,Durham,Ontario,Canada,2020-03-20,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1088,320,50-59,Male,Durham,Ontario,Canada,2020-03-21,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1091,323,20-29,Male,Simcoe Muskoka,Ontario,Canada,2020-03-21,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1092,324,0-19,Female,York,Ontario,Canada,2020-03-21,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1096,328,50-59,Female,Peel,Ontario,Canada,2020-03-21,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1102,334,70-79,Female,York,Ontario,Canada,2020-03-21,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1103,335,30-39,Male,Ottawa,Ontario,Canada,2020-03-21,2020-03-15,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1104,336,30-39,Female,Simcoe Muskoka,Ontario,Canada,2020-03-21,2020-03-15,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1199,13,50-59,Female,Zone 3 (Fredericton area),New Brunswick,Canada,2020-03-21,2020-03-15,f,Close Contact,https://www2.gnb.ca/content/gnb/en/news/news_release.2020.03.0147.html
+1203,17,20-29,Female,Zone 2 (Saint John area),New Brunswick,Canada,2020-03-21,2020-03-15,f,Close Contact,https://www2.gnb.ca/content/gnb/en/news/news_release.2020.03.0147.html
+1334,381,20-29,Female,Waterloo,Ontario,Canada,2020-03-22,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1348,395,30-39,Male,Southwestern,Ontario,Canada,2020-03-22,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1472,426,80-89,Male,Haliburton Kawartha Pineridge,Ontario,Canada,2020-03-23,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1473,427,30-39,Male,York,Ontario,Canada,2020-03-23,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1474,428,50-59,Male,York,Ontario,Canada,2020-03-23,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1475,429,20-29,Female,Hastings Prince Edward,Ontario,Canada,2020-03-23,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1476,430,40-49,Male,Peel,Ontario,Canada,2020-03-23,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1495,449,40-49,Male,Peel,Ontario,Canada,2020-03-23,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1499,453,50-59,Female,Ottawa,Ontario,Canada,2020-03-23,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1503,457,60-69,Female,Eastern,Ontario,Canada,2020-03-23,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1505,459,60-69,Male,York,Ontario,Canada,2020-03-23,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1512,466,40-49,Male,Peel,Ontario,Canada,2020-03-23,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1513,467,40-49,Female,Toronto,Ontario,Canada,2020-03-23,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1516,470,60-69,Female,York,Ontario,Canada,2020-03-23,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1517,471,70-79,Male,Hamilton,Ontario,Canada,2020-03-23,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1518,472,70-79,Female,Hamilton,Ontario,Canada,2020-03-23,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1519,473,70-79,Male,Durham,Ontario,Canada,2020-03-23,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1520,474,40-49,Male,Toronto,Ontario,Canada,2020-03-23,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1525,479,40-49,Male,Waterloo,Ontario,Canada,2020-03-23,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1526,480,40-49,Male,Waterloo,Ontario,Canada,2020-03-23,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1528,482,50-59,Male,Waterloo,Ontario,Canada,2020-03-23,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1529,483,40-49,Male,Waterloo,Ontario,Canada,2020-03-23,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1532,486,20-29,Male,Waterloo,Ontario,Canada,2020-03-23,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1534,488,30-39,Male,Waterloo,Ontario,Canada,2020-03-23,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+1537,491,0-19,Female,Waterloo,Ontario,Canada,2020-03-23,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2094,507,40-49,Female,Waterloo,Ontario,Canada,2020-03-24,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2096,509,40-49,Female,Brant,Ontario,Canada,2020-03-24,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2103,516,30-39,Female,Hamilton,Ontario,Canada,2020-03-24,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2107,520,30-39,Female,Ottawa,Ontario,Canada,2020-03-24,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2108,521,40-49,Male,Ottawa,Ontario,Canada,2020-03-24,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2109,522,30-39,Male,Toronto,Ontario,Canada,2020-03-24,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2112,525,60-69,Female,York,Ontario,Canada,2020-03-24,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2138,551,70-79,Female,Simcoe Muskoka,Ontario,Canada,2020-03-24,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2145,558,30-39,Female,Waterloo,Ontario,Canada,2020-03-24,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2147,560,60-69,Female,Waterloo,Ontario,Canada,2020-03-24,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2148,561,60-69,Female,Waterloo,Ontario,Canada,2020-03-24,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2150,563,30-39,Male,Waterloo,Ontario,Canada,2020-03-24,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2151,564,40-49,Female,Waterloo,Ontario,Canada,2020-03-24,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2152,565,20-29,Female,Waterloo,Ontario,Canada,2020-03-24,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2797,594,30-39,Male,Halton,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2799,596,50-59,Female,Porcupine,Ontario,Canada,2020-03-25,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2800,597,50-59,Male,Porcupine,Ontario,Canada,2020-03-25,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2801,598,30-39,Male,Durham,Ontario,Canada,2020-03-25,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2802,599,40-49,Male,Toronto,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2803,600,30-39,Male,Toronto,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2804,601,50-59,Female,Toronto,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2807,604,80-89,Female,Middlesex-London,Ontario,Canada,2020-03-25,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2815,612,20-29,Male,Simcoe Muskoka,Ontario,Canada,2020-03-25,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2816,613,30-39,Male,Windsor-Essex,Ontario,Canada,2020-03-25,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2820,617,0-19,Female,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2821,618,0-19,Male,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2822,619,40-49,Male,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2831,628,30-39,Female,Toronto,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2835,632,30-39,Female,Toronto,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2836,633,20-29,Female,Peel,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2839,636,30-39,Female,Toronto,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2841,638,20-29,Male,York,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2843,640,40-49,Male,York,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2844,641,40-49,Male,Halton,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2848,645,30-39,Female,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2853,650,30-39,Male,Timiskaming,Ontario,Canada,2020-03-25,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2854,651,80-89,Female,Toronto,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2855,652,60-69,Male,Peterborough,Ontario,Canada,2020-03-25,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2857,654,60-69,Male,Peel,Ontario,Canada,2020-03-25,2020-03-22,f,close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+2874,671,50-59,Female,Simcoe Muskoka,Ontario,Canada,2020-03-25,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3413,693,40-49,Female,Peel,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3418,698,0-19,Female,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3425,705,50-59,Female,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3426,706,30-39,Male,Toronto,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3427,707,0-19,Male,Waterloo,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3428,708,30-39,Male,Waterloo,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3436,716,30-39,Female,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3437,717,70-79,Female,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3439,719,50-59,Male,Haliburton Kawartha Pineridge,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3450,730,80-89,Female,Durham,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3451,731,30-39,Male,Peel,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3461,741,40-49,Male,Simcoe Muskoka,Ontario,Canada,2020-03-26,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3462,742,40-49,Male,Peel,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3463,743,80-89,Female,Haliburton Kawartha Pineridge,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3466,746,30-39,Male,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3471,751,30-39,Male,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3472,752,20-29,Female,Toronto,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3473,753,20-29,Female,Toronto,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3474,754,30-39,Male,Toronto,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3475,755,50-59,Male,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3476,756,50-59,Male,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3478,758,20-29,Female,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3479,759,60-69,Male,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3483,763,40-49,Male,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3484,764,60-69,Female,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3485,765,30-39,Male,Middlesex-London,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3487,767,70-79,Male,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3488,768,40-49,Male,Simcoe Muskoka,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3490,770,30-39,Female,Toronto,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3492,772,30-39,Female,Haliburton Kawartha Pineridge,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3493,773,30-39,Female,Haliburton Kawartha Pineridge,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3494,774,60-69,Female,Haliburton Kawartha Pineridge,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3495,775,50-59,Female,Haliburton Kawartha Pineridge,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3496,776,50-59,Female,Haliburton Kawartha Pineridge,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3497,777,60-69,Female,Haliburton Kawartha Pineridge,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3498,778,60-69,Female,Haliburton Kawartha Pineridge,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3499,779,60-69,Female,Haliburton Kawartha Pineridge,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3500,780,40-49,Female,Haliburton Kawartha Pineridge,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3501,781,40-49,Female,Haliburton Kawartha Pineridge,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3504,784,20-29,Female,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3506,786,40-49,Male,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3507,787,30-39,Female,Peel,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3511,791,0-19,Male,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3512,792,40-49,Female,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3513,793,50-59,Female,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3514,794,20-29,Male,York,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3516,796,20-29,Male,Sudbury,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3521,801,30-39,Male,Middlesex-London,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3522,802,30-39,Female,Southwestern,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3524,804,30-39,Male,Southwestern,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3528,808,70-79,Male,Lambton,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3530,810,70-79,Female,Ottawa,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3531,811,60-69,Female,Peterborough,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3532,812,50-59,Female,Peterborough,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3539,819,40-49,Female,Waterloo,Ontario,Canada,2020-03-26,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3544,824,30-39,Female,Waterloo,Ontario,Canada,2020-03-26,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3547,827,0-19,Female,Waterloo,Ontario,Canada,2020-03-26,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3550,830,40-49,Female,Waterloo,Ontario,Canada,2020-03-26,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3552,832,50-59,Male,Waterloo,Ontario,Canada,2020-03-26,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3557,837,40-49,Female,Simcoe Muskoka,Ontario,Canada,2020-03-26,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3560,840,60-69,Female,Simcoe Muskoka,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3562,842,90-99,Female,Renfrew,Ontario,Canada,2020-03-26,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+3563,843,30-39,Male,Sudbury,Ontario,Canada,2020-03-26,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+4052,868,60-69,Female,Windsor-Essex,Ontario,Canada,2020-03-27,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+4064,880,70-79,Male,Southwestern,Ontario,Canada,2020-03-27,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+4068,884,50-59,Female,Simcoe Muskoka,Ontario,Canada,2020-03-27,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+4073,889,80-89,Male,Simcoe Muskoka,Ontario,Canada,2020-03-27,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+4074,890,30-39,Male,Porcupine,Ontario,Canada,2020-03-27,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+4079,895,30-39,Male,Niagara,Ontario,Canada,2020-03-27,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+4787,999,50-59,Male,Eastern,Ontario,Canada,2020-03-28,2020-03-22,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+4800,1012,60-69,Female,Southwestern,Ontario,Canada,2020-03-28,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+4801,1013,80-89,Female,Southwestern,Ontario,Canada,2020-03-28,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+4848,1060,60-69,Male,Huron Perth,Ontario,Canada,2020-03-28,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+4849,1061,40-49,Female,Huron Perth,Ontario,Canada,2020-03-28,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+4850,1062,60-69,Male,Huron Perth,Ontario,Canada,2020-03-28,2020-03-22,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+4917,1129,50-59,Male,Halton,Ontario,Canada,2020-03-28,2020-03-22,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+5655,1145,60-69,Male,Algoma,Ontario,Canada,2020-03-29,2020-03-29,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+5658,1148,20-29,Female,Grey Bruce,Ontario,Canada,2020-03-29,2020-03-29,f,Close Contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+5659,1149,70-79,Female,Grey Bruce,Ontario,Canada,2020-03-29,2020-03-29,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+5684,1174,40-49,Male,Halton,Ontario,Canada,2020-03-29,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+5685,1175,30-39,Female,Halton,Ontario,Canada,2020-03-29,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+5687,1177,30-39,Female,Halton,Ontario,Canada,2020-03-29,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+5737,1227,80-89,Female,Middlesex-London,Ontario,Canada,2020-03-29,2020-03-29,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6321,1357,30-39,Female,Grey Bruce,Ontario,Canada,2020-03-30,2020-03-29,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6402,1438,30-39,Female,Timiskaming,Ontario,Canada,2020-03-30,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6405,1441,30-39,Female,Simcoe Muskoka,Ontario,Canada,2020-03-30,2020-03-29,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6414,1450,40-49,Female,Simcoe Muskoka,Ontario,Canada,2020-03-30,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6416,1452,60-69,Female,Porcupine,Ontario,Canada,2020-03-30,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6418,1454,30-39,Male,North Bay Parry Sound,Ontario,Canada,2020-03-30,2020-03-29,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6432,1468,30-39,Female,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-30,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6435,1471,20-29,Female,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-30,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6436,1472,40-49,Male,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-30,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6437,1473,40-49,Male,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-30,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6438,1474,0-19,Female,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-30,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6439,1475,50-59,Male,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-30,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6440,1476,30-39,Male,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-30,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6441,1477,20-29,Male,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-30,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6442,1478,50-59,Female,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-30,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6443,1479,50-59,Male,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-30,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6446,1482,20-29,Male,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-30,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+6454,1490,50-59,Male,Kingston Frontenac Lennox & Addington,Ontario,Canada,2020-03-30,2020-03-29,f,Close contact,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+7450,1709,20-29,Male,Renfrew,Ontario,Canada,2020-03-31,2020-03-29,f,Community,https://www.ontario.ca/page/2019-novel-coronavirus#section-0
+9311,1973,40-49,Female,Chatham-Kent,Ontario,Canada,2020-04-01,2020-03-29,f,Close contact,https://ckphu.com/current-situation-in-chatham-kent-and-surrounding-areas/
+9312,1974,40-49,Male,Chatham-Kent,Ontario,Canada,2020-04-01,2020-03-29,f,Close contact,https://ckphu.com/current-situation-in-chatham-kent-and-surrounding-areas/
+9722,2384,40-49,Male,Simcoe Muskoka,Ontario,Canada,2020-04-01,2020-03-29,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+9724,2386,20-29,Female,Simcoe Muskoka,Ontario,Canada,2020-04-01,2020-03-29,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-21
+9725,2387,50-59,Male,Simcoe Muskoka,Ontario,Canada,2020-04-01,2020-03-29,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-22
+9726,2388,0-19,Female,Simcoe Muskoka,Ontario,Canada,2020-04-01,2020-03-29,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-23
+9728,2390,30-39,Female,Simcoe Muskoka,Ontario,Canada,2020-04-01,2020-03-29,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-25
+9730,2392,30-39,Female,Simcoe Muskoka,Ontario,Canada,2020-04-01,2020-03-29,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-27
+9731,2393,40-49,Female,Simcoe Muskoka,Ontario,Canada,2020-04-01,2020-03-29,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-28
+9732,2394,20-29,Female,Simcoe Muskoka,Ontario,Canada,2020-04-01,2020-03-29,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-29
+9733,2395,60-69,Male,Simcoe Muskoka,Ontario,Canada,2020-04-01,2020-03-29,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-30
+9734,2396,70-79,Male,Simcoe Muskoka,Ontario,Canada,2020-04-01,2020-03-29,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-31
+9738,2400,80-89,Male,Southwestern,Ontario,Canada,2020-04-01,2020-03-29,f,Close contact,https://www.swpublichealth.ca/content/community-update-novel-coronavirus-covid-22
+9740,2402,30-39,Female,Sudbury,Ontario,Canada,2020-04-01,2020-03-29,f,Close contact,https://www.phsd.ca/health-topics-programs/diseases-infections/coronavirus/current-status-covid-19
+9742,2404,50-59,Female,Sudbury,Ontario,Canada,2020-04-01,2020-03-29,f,Close contact,https://www.phsd.ca/health-topics-programs/diseases-infections/coronavirus/current-status-covid-19
+11341,2852,50-59,Male,Algoma,Ontario,Canada,2020-04-02,2020-03-29,f,Close contact,http://www.algomapublichealth.com/disease-and-illness/infectious-diseases/novel-coronavirus/current-status-covid-19/
+11343,2854,20-29,Female,Chatham-Kent,Ontario,Canada,2020-04-02,2020-03-29,f,Close contact,https://ckphu.com/current-situation-in-chatham-kent-and-surrounding-areas/
+11357,2868,50-59,Female,Simcoe Muskoka,Ontario,Canada,2020-04-02,2020-03-29,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19#Confirmed
+11358,2869,20-29,Female,Simcoe Muskoka,Ontario,Canada,2020-04-02,2020-03-29,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19#Confirmed
+11359,2870,70-79,Male,Simcoe Muskoka,Ontario,Canada,2020-04-02,2020-03-29,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19#Confirmed
+11360,2871,20-29,Male,Simcoe Muskoka,Ontario,Canada,2020-04-02,2020-03-29,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19#Confirmed
+11363,2874,30-39,Female,Simcoe Muskoka,Ontario,Canada,2020-04-02,2020-03-29,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19#Confirmed
+11365,2876,20-29,Male,Simcoe Muskoka,Ontario,Canada,2020-04-02,2020-03-29,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19#Confirmed
+11374,2885,50-59,Female,Timiskaming,Ontario,Canada,2020-04-02,2020-03-29,f,Close contact,https://www.timiskaminghu.com/websites/timiskaminghu.com/files/Media%20Releases/20200402%20COVID-19%20Third%20Positive.pdf
+12428,3311,30-39,Male,Simcoe Muskoka,Ontario,Canada,2020-04-03,2020-03-29,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+12429,3312,30-39,Female,Simcoe Muskoka,Ontario,Canada,2020-04-03,2020-03-29,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+12430,3313,60-69,Female,Simcoe Muskoka,Ontario,Canada,2020-04-03,2020-03-29,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+12431,3314,20-29,Female,Simcoe Muskoka,Ontario,Canada,2020-04-03,2020-03-29,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+12432,3315,20-29,Male,Simcoe Muskoka,Ontario,Canada,2020-04-03,2020-03-29,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+12471,3354,40-49,Female,Sudbury,Ontario,Canada,2020-04-03,2020-03-29,f,Close contact,https://www.phsd.ca/news/public-service-announcement-new-confirmed-cases-of-covid-19-reported-by-public-health-sudbury-districts-2
+12745,3628,50-59,Female,Porcupine,Ontario,Canada,2020-04-03,2020-03-29,f,Close Contact,http://www.porcupinehu.on.ca/en/your-health/infectious-diseases/novel-coronavirus/
+12746,3629,60-69,Male,Porcupine,Ontario,Canada,2020-04-03,2020-03-29,f,Close Contact,http://www.porcupinehu.on.ca/en/your-health/infectious-diseases/novel-coronavirus/
+14074,3687,20-29,Female,Algoma,Ontario,Canada,2020-04-04,2020-03-29,f,Close Contact,http://www.algomapublichealth.com/news/public-service-announcement-eighth-confirmed-case-of-covid-19-reported-by-algoma-public-health/
+14128,3741,90-99,Male,Southwestern,Ontario,Canada,2020-04-04,2020-03-29,f,Close Contact,https://www.swpublichealth.ca/content/community-update-novel-coronavirus-covid-19
+14324,3937,50-59,Male,Timiskaming,Ontario,Canada,2020-04-04,2020-03-29,f,Close contact,https://www.timiskaminghu.com/90484/covid-19
+14325,3938,0-19,Male,Timiskaming,Ontario,Canada,2020-04-04,2020-03-29,f,Close contact,https://www.timiskaminghu.com/90484/covid-19
+16775,4456,60-69,Female,Simcoe Muskoka,Ontario,Canada,2020-04-06,2020-04-05,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+16778,4459,30-39,Female,Simcoe Muskoka,Ontario,Canada,2020-04-06,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+16780,4461,90-99,Male,Simcoe Muskoka,Ontario,Canada,2020-04-06,2020-04-05,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+16781,4462,30-39,Female,Simcoe Muskoka,Ontario,Canada,2020-04-06,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+16782,4463,70-79,Female,Simcoe Muskoka,Ontario,Canada,2020-04-06,2020-04-05,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+16783,4464,30-39,Male,Simcoe Muskoka,Ontario,Canada,2020-04-06,2020-04-05,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+16784,4465,30-39,Male,Simcoe Muskoka,Ontario,Canada,2020-04-06,2020-04-05,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+16785,4466,80-89,Male,Simcoe Muskoka,Ontario,Canada,2020-04-06,2020-04-05,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+16786,4467,90-99,Female,Simcoe Muskoka,Ontario,Canada,2020-04-06,2020-04-05,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+16787,4468,70-79,Female,Simcoe Muskoka,Ontario,Canada,2020-04-06,2020-04-05,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+16788,4469,80-89,Female,Simcoe Muskoka,Ontario,Canada,2020-04-06,2020-04-05,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+16789,4470,70-79,Female,Simcoe Muskoka,Ontario,Canada,2020-04-06,2020-04-05,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+16863,4544,60-69,Male,North Bay Parry Sound,Ontario,Canada,2020-04-10,2020-04-05,f,Community,https://www.myhealthunit.ca/en/health-topics/coronavirus.asp
+16963,4644,70-79,Female,Porcupine,Ontario,Canada,2020-04-06,2020-04-05,f,Close contact,http://www.porcupinehu.on.ca/en/your-health/infectious-diseases/novel-coronavirus/
+17130,4811,30-39,Male,Chatham-Kent,Ontario,Canada,2020-04-06,2020-04-05,f,Close contact,https://ckphu.com/current-situation-in-chatham-kent-and-surrounding-areas/
+17131,4812,60-69,Female,Chatham-Kent,Ontario,Canada,2020-04-06,2020-04-05,f,Close contact,https://ckphu.com/current-situation-in-chatham-kent-and-surrounding-areas/
+17132,4813,60-69,Male,Chatham-Kent,Ontario,Canada,2020-04-06,2020-04-05,f,Close contact,https://ckphu.com/current-situation-in-chatham-kent-and-surrounding-areas/
+17133,4814,60-69,Female,Chatham-Kent,Ontario,Canada,2020-04-06,2020-04-05,f,Close contact,https://ckphu.com/current-situation-in-chatham-kent-and-surrounding-areas/
+17134,4815,20-29,Male,Thunder Bay,Ontario,Canada,2020-04-06,2020-04-05,f,Close contact,https://www.tbdhu.com/news/psa-new-confirmed-cases-of-covid-19-reported-by-thunder-bay-district-health-unit-0#
+17135,4816,60-69,Female,Thunder Bay,Ontario,Canada,2020-04-06,2020-04-05,f,Close contact,https://www.tbdhu.com/news/psa-new-confirmed-cases-of-covid-19-reported-by-thunder-bay-district-health-unit-0#
+17136,4817,30-39,Female,Thunder Bay,Ontario,Canada,2020-04-06,2020-04-05,f,Close contact,https://www.tbdhu.com/news/psa-new-confirmed-cases-of-covid-19-reported-by-thunder-bay-district-health-unit-0#
+17137,4818,20-29,Female,Thunder Bay,Ontario,Canada,2020-04-06,2020-04-05,f,Close contact,https://www.tbdhu.com/news/psa-new-confirmed-cases-of-covid-19-reported-by-thunder-bay-district-health-unit-0#
+18202,5032,90-99,Female,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+18203,5033,20-29,Female,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+18205,5035,80-89,Male,Simcoe Muskoka,Ontario,Canada,2020-04-07,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+18206,5036,80-89,Female,Simcoe Muskoka,Ontario,Canada,2020-04-07,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+18207,5037,90-99,Female,Simcoe Muskoka,Ontario,Canada,2020-04-07,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+18208,5038,90-99,Female,Simcoe Muskoka,Ontario,Canada,2020-04-07,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+18209,5039,80-89,Female,Simcoe Muskoka,Ontario,Canada,2020-04-07,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+18212,5042,60-69,Female,Simcoe Muskoka,Ontario,Canada,2020-04-07,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+18213,5043,30-39,Female,Simcoe Muskoka,Ontario,Canada,2020-04-07,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+18322,5152,60-69,Female,Chatham-Kent,Ontario,Canada,2020-04-07,2020-04-05,f,Close contact,https://ckphu.com/current-situation-in-chatham-kent-and-surrounding-areas/
+19490,5476,90-99,Female,Simcoe Muskoka,Ontario,Canada,2020-04-08,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+19491,5477,80-89,Female,Simcoe Muskoka,Ontario,Canada,2020-04-08,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+19492,5478,90-99,Female,Simcoe Muskoka,Ontario,Canada,2020-04-08,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+19493,5479,90-99,Female,Simcoe Muskoka,Ontario,Canada,2020-04-08,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+19495,5481,50-59,Male,Simcoe Muskoka,Ontario,Canada,2020-04-08,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+19496,5482,40-49,Female,Simcoe Muskoka,Ontario,Canada,2020-04-08,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+19497,5483,20-29,Female,Simcoe Muskoka,Ontario,Canada,2020-04-08,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+19498,5484,30-39,Male,Simcoe Muskoka,Ontario,Canada,2020-04-08,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+19563,5549,20-29,Male,North Bay Parry Sound,Ontario,Canada,2020-04-11,2020-04-05,f,Community,https://www.myhealthunit.ca/en/health-topics/coronavirus.asp
+19639,5625,0-19,Male,Thunder Bay,Ontario,Canada,2020-04-08,2020-04-05,f,Close contact,https://www.tbdhu.com/coronavirus#
+19814,5800,70-79,Male,Timiskaming,Ontario,Canada,2020-04-08,2020-04-05,f,Close Contact,https://www.timiskaminghu.com/90484/covi
+19815,5801,70-79,Female,Timiskaming,Ontario,Canada,2020-04-08,2020-04-05,f,Close Contact,https://www.timiskaminghu.com/90484/covi
+20855,5850,20-29,Female,Chatham-Kent,Ontario,Canada,2020-04-09,2020-04-05,f,Close contact,https://ckphu.com/current-situation-in-chatham-kent-and-surrounding-areas/
+20891,5886,50-59,Female,Simcoe Muskoka,Ontario,Canada,2020-04-09,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+20892,5887,70-79,Female,Simcoe Muskoka,Ontario,Canada,2020-04-09,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+20893,5888,20-29,Female,Simcoe Muskoka,Ontario,Canada,2020-04-09,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+20894,5889,40-49,Male,Simcoe Muskoka,Ontario,Canada,2020-04-09,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+21274,6269,50-59,Female,Porcupine,Ontario,Canada,2020-04-09,2020-04-05,f,Community,http://www.porcupinehu.on.ca/en/your-health/infectious-diseases/novel-coronavirus/
+21275,6270,50-59,Female,Porcupine,Ontario,Canada,2020-04-09,2020-04-05,f,Close contact,http://www.porcupinehu.on.ca/en/your-health/infectious-diseases/novel-coronavirus/
+21276,6271,80-89,Male,Porcupine,Ontario,Canada,2020-04-09,2020-04-05,f,Close contact,http://www.porcupinehu.on.ca/en/your-health/infectious-diseases/novel-coronavirus/
+23514,6845,40-49,Male,Chatham-Kent,Ontario,Canada,2020-04-11,2020-04-05,f,Close Contact,https://ckphu.com/current-situation-in-chatham-kent-and-surrounding-areas/
+23737,7068,20-29,Female,Simcoe Muskoka,Ontario,Canada,2020-04-20,2020-04-19,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23738,7069,70-79,Male,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23739,7070,50-59,Female,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23740,7071,0-19,Male,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23743,7074,70-79,Female,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23745,7076,20-29,Female,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23746,7077,60-69,Female,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23747,7078,60-69,Male,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23748,7079,70-79,Male,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23749,7080,0-19,Female,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23751,7082,50-59,Male,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23752,7083,90-99,Female,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23753,7084,50-59,Female,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23756,7087,0-19,Male,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23757,7088,40-49,Female,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23758,7089,40-49,Male,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23759,7090,60-69,Male,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23760,7091,70-79,Female,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+23761,7092,90-99,Female,Simcoe Muskoka,Ontario,Canada,2020-04-11,2020-04-05,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+24631,7297,50-59,Male,Chatham-Kent,Ontario,Canada,2020-04-12,2020-04-12,f,Close contact,https://ckphu.com/current-situation-in-chatham-kent-and-surrounding-areas/
+24632,7298,60-69,Male,Chatham-Kent,Ontario,Canada,2020-04-12,2020-04-12,f,Close contact,https://ckphu.com/current-situation-in-chatham-kent-and-surrounding-areas/
+24633,7299,40-49,Male,Chatham-Kent,Ontario,Canada,2020-04-12,2020-04-12,f,Close contact,https://ckphu.com/current-situation-in-chatham-kent-and-surrounding-areas/
+24634,7300,60-69,Female,Chatham-Kent,Ontario,Canada,2020-04-12,2020-04-12,f,Close contact,https://ckphu.com/current-situation-in-chatham-kent-and-surrounding-areas/
+24635,7301,70-79,Female,Chatham-Kent,Ontario,Canada,2020-04-12,2020-04-12,f,Close contact,https://ckphu.com/current-situation-in-chatham-kent-and-surrounding-areas/
+24853,7519,20-29,Male,Timiskaming,Ontario,Canada,2020-04-12,2020-04-12,f,Close contact,https://www.timiskaminghu.com/90484/covid-19
+25030,7696,80-89,Male,North Bay Parry Sound,Ontario,Canada,2020-04-12,2020-04-12,f,Community,https://www.myhealthunit.ca/en/health-topics/covid-19-cases.asp
+26301,8092,20-29,Female,Timiskaming,Ontario,Canada,2020-04-13,2020-04-12,f,Community,https://www.timiskaminghu.com/90484/covid-19
+26305,8096,90-99,Female,Simcoe Muskoka,Ontario,Canada,2020-04-13,2020-04-12,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+26306,8097,70-79,Female,Simcoe Muskoka,Ontario,Canada,2020-04-13,2020-04-12,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+26307,8098,90-99,Female,Simcoe Muskoka,Ontario,Canada,2020-04-13,2020-04-12,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+26308,8099,80-89,Male,Simcoe Muskoka,Ontario,Canada,2020-04-13,2020-04-12,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+26309,8100,60-69,Male,Simcoe Muskoka,Ontario,Canada,2020-04-13,2020-04-12,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+26310,8101,60-69,Male,Simcoe Muskoka,Ontario,Canada,2020-04-13,2020-04-12,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+26312,8103,20-29,Male,Simcoe Muskoka,Ontario,Canada,2020-04-13,2020-04-12,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+26313,8104,0-19,Male,Simcoe Muskoka,Ontario,Canada,2020-04-13,2020-04-12,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+26314,8105,60-69,Male,Simcoe Muskoka,Ontario,Canada,2020-04-13,2020-04-12,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+27388,8279,50-59,Female,North Bay Parry Sound,Ontario,Canada,2020-04-14,2020-04-12,f,Close contact,https://www.myhealthunit.ca/en/health-topics/covid-19-cases.asp
+27485,8376,30-39,Female,Simcoe Muskoka,Ontario,Canada,2020-04-14,2020-04-12,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+27486,8377,0-19,Female,Simcoe Muskoka,Ontario,Canada,2020-04-14,2020-04-12,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+27487,8378,70-79,Male,Simcoe Muskoka,Ontario,Canada,2020-04-14,2020-04-12,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+27489,8380,30-39,Male,Simcoe Muskoka,Ontario,Canada,2020-04-14,2020-04-12,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+27491,8382,20-29,Male,Simcoe Muskoka,Ontario,Canada,2020-04-14,2020-04-12,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+27495,8386,70-79,Female,Sudbury,Ontario,Canada,2020-04-14,2020-04-12,t,Close contact,https://www.phsd.ca/health-topics-programs/diseases-infections/coronavirus/current-status-covid-19
+28747,8816,30-39,Male,Simcoe Muskoka,Ontario,Canada,2020-04-15,2020-04-12,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+28748,8817,70-79,Female,Simcoe Muskoka,Ontario,Canada,2020-04-15,2020-04-12,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+29171,9240,60-69,Male,Porcupine,Ontario,Canada,2020-04-15,2020-04-12,f,Close contact,http://www.porcupinehu.on.ca/en/your-health/infectious-diseases/novel-coronavirus/
+29172,9241,30-39,Male,Porcupine,Ontario,Canada,2020-04-15,2020-04-12,f,Close contact,http://www.porcupinehu.on.ca/en/your-health/infectious-diseases/novel-coronavirus/
+30452,9308,20-29,Male,Sudbury,Ontario,Canada,2020-04-16,2020-04-12,f,Close contact,https://www.phsd.ca/news/public-service-announcement-new-confirmed-cases-of-covid-19-reported-by-public-health-sudbury-districts-6
+30453,9309,20-29,Male,Sudbury,Ontario,Canada,2020-04-16,2020-04-12,f,Close contact,https://www.phsd.ca/news/public-service-announcement-new-confirmed-cases-of-covid-19-reported-by-public-health-sudbury-districts-6
+30454,9310,20-29,Female,Sudbury,Ontario,Canada,2020-04-16,2020-04-12,f,Close contact,https://www.phsd.ca/news/public-service-announcement-new-confirmed-cases-of-covid-19-reported-by-public-health-sudbury-districts-6
+30457,9313,70-79,Female,Simcoe Muskoka,Ontario,Canada,2020-04-16,2020-04-12,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+30458,9314,30-39,Female,Simcoe Muskoka,Ontario,Canada,2020-04-16,2020-04-12,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+30459,9315,0-19,Female,Simcoe Muskoka,Ontario,Canada,2020-04-16,2020-04-12,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+30460,9316,40-49,Male,Simcoe Muskoka,Ontario,Canada,2020-04-16,2020-04-12,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+30461,9317,40-49,Female,Simcoe Muskoka,Ontario,Canada,2020-04-16,2020-04-12,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+30463,9319,50-59,Female,Simcoe Muskoka,Ontario,Canada,2020-04-16,2020-04-12,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+30621,9477,60-69,Female,Algoma,Ontario,Canada,2020-04-16,2020-04-12,f,Community,http://www.algomapublichealth.com/disease-and-illness/infectious-diseases/novel-coronavirus/current-status-covid-19/
+30700,9556,60-69,Male,Thunder Bay,Ontario,Canada,2020-04-16,2020-04-12,f,Close Contact,https://www.tbdhu.com/status
+30703,9559,20-29,Female,Thunder Bay,Ontario,Canada,2020-04-16,2020-04-12,f,Close Contact,https://www.tbdhu.com/status
+30704,9560,50-59,Male,Thunder Bay,Ontario,Canada,2020-04-16,2020-04-12,f,Close Contact,https://www.tbdhu.com/status
+30705,9561,50-59,Female,Thunder Bay,Ontario,Canada,2020-04-16,2020-04-12,f,Close Contact,https://www.tbdhu.com/status
+30706,9562,50-59,Female,Thunder Bay,Ontario,Canada,2020-04-16,2020-04-12,f,Close Contact,https://www.tbdhu.com/status
+30707,9563,50-59,Female,Thunder Bay,Ontario,Canada,2020-04-16,2020-04-12,f,Close Contact,https://www.tbdhu.com/status
+32411,10011,90-99,Female,Simcoe Muskoka,Ontario,Canada,2020-04-17,2020-04-12,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+32412,10012,90-99,Female,Simcoe Muskoka,Ontario,Canada,2020-04-17,2020-04-12,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+32413,10013,90-99,Female,Simcoe Muskoka,Ontario,Canada,2020-04-17,2020-04-12,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+32416,10016,40-49,Male,Simcoe Muskoka,Ontario,Canada,2020-04-17,2020-04-12,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+32418,10018,60-69,Male,Simcoe Muskoka,Ontario,Canada,2020-04-17,2020-04-12,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+32420,10020,80-89,Female,Simcoe Muskoka,Ontario,Canada,2020-04-17,2020-04-12,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+32421,10021,50-59,Male,Simcoe Muskoka,Ontario,Canada,2020-04-17,2020-04-12,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+32728,10328,50-59,Male,Thunder Bay,Ontario,Canada,2020-04-17,2020-04-12,f,Close contact,https://www.tbdhu.com/coronavirus#
+32729,10329,40-49,Male,Thunder Bay,Ontario,Canada,2020-04-17,2020-04-12,f,Close contact,https://www.tbdhu.com/coronavirus#
+32730,10330,20-29,Male,Thunder Bay,Ontario,Canada,2020-04-17,2020-04-12,f,Close contact,https://www.tbdhu.com/coronavirus#
+35499,11023,40-49,Male,Sudbury,Ontario,Canada,2020-04-19,2020-04-19,f,Community,https://www.phsd.ca/health-topics-programs/diseases-infections/coronavirus/current-status-covid-19
+35637,11161,80-89,Female,Thunder Bay,Ontario,Canada,2020-04-19,2020-04-19,f,Close contact,https://www.tbdhu.com/coronavirus#
+35638,11162,50-59,Male,Thunder Bay,Ontario,Canada,2020-04-19,2020-04-19,f,Close contact,https://www.tbdhu.com/coronavirus#
+35957,11481,20-29,Female,Timiskaming,Ontario,Canada,2020-04-19,2020-04-19,f,Close Contact,https://www.timiskaminghu.com/90484/covid-19
+37462,11817,40-49,Female,Simcoe Muskoka,Ontario,Canada,2020-04-20,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+37463,11818,20-29,Female,Simcoe Muskoka,Ontario,Canada,2020-04-20,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+37465,11820,20-29,Female,Simcoe Muskoka,Ontario,Canada,2020-04-20,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+37467,11822,20-29,Female,Simcoe Muskoka,Ontario,Canada,2020-04-20,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+37468,11823,20-29,Female,Simcoe Muskoka,Ontario,Canada,2020-04-20,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+37469,11824,30-39,Female,Simcoe Muskoka,Ontario,Canada,2020-04-20,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+37470,11825,70-79,Male,Simcoe Muskoka,Ontario,Canada,2020-04-20,2020-04-19,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+37472,11827,30-39,Male,Simcoe Muskoka,Ontario,Canada,2020-04-20,2020-04-19,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+37473,11828,40-49,Female,Simcoe Muskoka,Ontario,Canada,2020-04-20,2020-04-19,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+37474,11829,70-79,Male,Simcoe Muskoka,Ontario,Canada,2020-04-20,2020-04-19,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+37476,11831,20-29,Male,Simcoe Muskoka,Ontario,Canada,2020-04-20,2020-04-19,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+37479,11834,30-39,Female,Sudbury,Ontario,Canada,2020-04-20,2020-04-19,f,Close contact,https://www.phsd.ca/health-topics-programs/diseases-infections/coronavirus/current-status-covid-19
+37501,11856,50-59,Female,North Bay Parry Sound,Ontario,Canada,2020-04-20,2020-04-19,f,Community,https://www.myhealthunit.ca/en/health-topics/covid-19-cases.asp
+37502,11857,0-19,Female,North Bay Parry Sound,Ontario,Canada,2020-04-20,2020-04-19,f,Community,https://www.myhealthunit.ca/en/health-topics/covid-19-cases.asp
+37860,12215,20-29,Male,Sudbury,Ontario,Canada,2020-04-20,2020-04-19,f,Close contact,https://www.phsd.ca/health-topics-programs/diseases-infections/coronavirus/current-status-covid-19
+39011,12326,50-59,Female,Simcoe Muskoka,Ontario,Canada,2020-04-21,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+39012,12327,0-19,Male,Simcoe Muskoka,Ontario,Canada,2020-04-21,2020-04-19,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+39013,12328,0-19,Male,Simcoe Muskoka,Ontario,Canada,2020-04-21,2020-04-19,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+39014,12329,50-59,Male,Simcoe Muskoka,Ontario,Canada,2020-04-21,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+39015,12330,60-69,Male,Simcoe Muskoka,Ontario,Canada,2020-04-21,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+39016,12331,50-59,Female,Simcoe Muskoka,Ontario,Canada,2020-04-21,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+39017,12332,60-69,Female,Simcoe Muskoka,Ontario,Canada,2020-04-21,2020-04-19,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+39018,12333,50-59,Female,Simcoe Muskoka,Ontario,Canada,2020-04-21,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+39019,12334,40-49,Female,Simcoe Muskoka,Ontario,Canada,2020-04-21,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+39020,12335,50-59,Male,Simcoe Muskoka,Ontario,Canada,2020-04-21,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+39021,12336,90-99,Male,Simcoe Muskoka,Ontario,Canada,2020-04-21,2020-04-19,f,Close Contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+39022,12337,50-59,Female,Simcoe Muskoka,Ontario,Canada,2020-04-21,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+39023,12338,60-69,Male,Simcoe Muskoka,Ontario,Canada,2020-04-21,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+39027,12342,50-59,Female,Sudbury,Ontario,Canada,2020-04-21,2020-04-19,f,Community,https://www.phsd.ca/health-topics-programs/diseases-infections/coronavirus/current-status-covid-19
+40675,12731,20-29,Female,Sudbury,Ontario,Canada,2020-04-22,2020-04-19,f,Close contact,https://www.phsd.ca/health-topics-programs/diseases-infections/coronavirus
+40897,12953,40-49,Female,Thunder Bay,Ontario,Canada,2020-04-22,2020-04-19,f,Close Contact,https://www.tbdhu.com/coronavirus#
+40898,12954,0-19,Female,Thunder Bay,Ontario,Canada,2020-04-22,2020-04-19,f,Close Contact,https://www.tbdhu.com/coronavirus#
+40899,12955,0-19,Female,Thunder Bay,Ontario,Canada,2020-04-22,2020-04-19,f,Close Contact,https://www.tbdhu.com/coronavirus#
+42805,13575,30-39,Male,Simcoe Muskoka,Ontario,Canada,2020-04-23,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+42806,13576,50-59,Male,Simcoe Muskoka,Ontario,Canada,2020-04-23,2020-04-19,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+42808,13578,40-49,Female,Simcoe Muskoka,Ontario,Canada,2020-04-23,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+42809,13579,50-59,Male,Simcoe Muskoka,Ontario,Canada,2020-04-23,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+42810,13580,70-79,Female,Simcoe Muskoka,Ontario,Canada,2020-04-23,2020-04-19,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+42811,13581,70-79,Female,Simcoe Muskoka,Ontario,Canada,2020-04-23,2020-04-19,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+42813,13583,60-69,Female,Simcoe Muskoka,Ontario,Canada,2020-04-23,2020-04-19,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+42816,13586,20-29,Male,Simcoe Muskoka,Ontario,Canada,2020-04-23,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+42817,13587,40-49,Female,Simcoe Muskoka,Ontario,Canada,2020-04-23,2020-04-19,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+42819,13589,30-39,Female,Simcoe Muskoka,Ontario,Canada,2020-04-23,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+42822,13592,30-39,Male,Thunder Bay,Ontario,Canada,2020-04-23,2020-04-19,f,Close contact,https://www.tbdhu.com/status#
+42823,13593,30-39,Female,Thunder Bay,Ontario,Canada,2020-04-23,2020-04-19,f,Close contact,https://www.tbdhu.com/status#
+42824,13594,30-39,Male,Thunder Bay,Ontario,Canada,2020-04-23,2020-04-19,f,Close contact,https://www.tbdhu.com/status#
+42825,13595,40-49,Male,Thunder Bay,Ontario,Canada,2020-04-23,2020-04-19,f,Close contact,https://www.tbdhu.com/status#
+43225,13995,50-59,Female,Sudbury,Ontario,Canada,2020-04-23,2020-04-19,f,Close contact,https://www.phsd.ca/news/public-service-announcement-new-confirmed-cases-of-covid-19-reported-by-public-health-sudbury-districts-7
+43226,13996,20-29,Female,Sudbury,Ontario,Canada,2020-04-23,2020-04-19,f,Close contact,https://www.phsd.ca/news/public-service-announcement-new-confirmed-cases-of-covid-19-reported-by-public-health-sudbury-districts-7
+44590,14222,50-59,Male,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+44591,14223,60-69,Female,Simcoe Muskoka,Ontario,Canada,2020-04-24,2020-04-19,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+44595,14227,50-59,Male,Sudbury,Ontario,Canada,2020-04-24,2020-04-19,f,Close contact,https://www.phsd.ca/health-topics-programs/diseases-infections/coronavirus/current-status-covid-19
+44647,14279,20-29,Male,Thunder Bay,Ontario,Canada,2020-04-24,2020-04-19,f,Close contact,https://www.tbdhu.com/coronavirus
+44648,14280,50-59,Female,Thunder Bay,Ontario,Canada,2020-04-24,2020-04-19,f,Close contact,https://www.tbdhu.com/coronavirus
+46271,14913,80-89,Male,Porcupine,Ontario,Canada,2020-04-25,2020-04-19,f,Close contact,http://www.porcupinehu.on.ca/en/your-health/infectious-diseases/novel-coronavirus/covid-cases/
+46272,14914,70-79,Female,Porcupine,Ontario,Canada,2020-04-25,2020-04-19,f,Close contact,http://www.porcupinehu.on.ca/en/your-health/infectious-diseases/novel-coronavirus/covid-cases/
+46273,14915,40-49,Male,Algoma,Ontario,Canada,2020-04-25,2020-04-19,f,Close contact,http://www.algomapublichealth.com/news/public-service-announcement-13th-confirmed-case-of-covid-19-reported-by-algoma-public-health/
+47674,15212,40-49,Female,Thunder Bay,Ontario,Canada,2020-04-26,2020-04-26,f,Close contact,https://www.tbdhu.com/coronavirus
+49251,15608,20-29,Female,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49253,15610,20-29,Male,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49254,15611,50-59,Female,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49255,15612,40-49,Female,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49256,15613,40-49,Male,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49258,15615,50-59,Male,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49259,15616,40-49,Male,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49260,15617,30-39,Male,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49261,15618,60-69,Male,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49262,15619,60-69,Female,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49263,15620,60-69,Female,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49264,15621,20-29,Female,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49265,15622,30-39,Male,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49267,15624,80-89,Male,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49268,15625,40-49,Female,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49269,15626,0-19,Female,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49270,15627,30-39,Female,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49271,15628,30-39,Male,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49272,15629,70-79,Female,Simcoe Muskoka,Ontario,Canada,2020-04-27,2020-04-26,f,Close contact,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+49296,15653,50-59,Male,Thunder Bay,Ontario,Canada,2020-04-27,2020-04-26,f,Close contact,https://www.tbdhu.com/coronavirus
+49297,15654,0-19,Male,Thunder Bay,Ontario,Canada,2020-04-27,2020-04-26,f,Close contact,https://www.tbdhu.com/coronavirus
+49298,15655,0-19,Male,Thunder Bay,Ontario,Canada,2020-04-27,2020-04-26,f,Close contact,https://www.tbdhu.com/coronavirus
+49299,15656,0-19,Female,Thunder Bay,Ontario,Canada,2020-04-27,2020-04-26,f,Close contact,https://www.tbdhu.com/coronavirus
+50546,15902,30-39,Male,Simcoe Muskoka,Ontario,Canada,2020-04-28,2020-04-26,f,Community,http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19
+50664,16020,70-79,Male,Porcupine,Ontario,Canada,2020-04-28,2020-04-26,f,Close contact,http://www.porcupinehu.on.ca/en/your-health/infectious-diseases/novel-coronavirus/
